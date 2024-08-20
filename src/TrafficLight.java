@@ -1,0 +1,3 @@
+interface TrafficLight {
+    void showSignal();
+}
